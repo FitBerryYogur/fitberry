@@ -7,7 +7,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background-color: #572364 !important;
+    background-color: #C83F49 !important;
 }
 
 .navbar-brand {
@@ -39,7 +39,6 @@ body {
     color: #572364 !important;
     font-weight: bold;
 }
-
 
 /* Sección Misión, Visión y Objetivo */
 #mision-vision-objetivo .p-3 {
@@ -86,97 +85,25 @@ body {
     color: #FFA500;
 }
 
-/* Footer */
-footer {
-    background-color: #572364;
-    color: #FCFBF4;
-}
-
-
-
-
-
-
-
-/* Estilos generales */
-body {
-    background-color: #FCFBF4;
-    color: #572364;
-    font-family: Arial, sans-serif;
-}
-
-/* Navbar */
-.navbar {
-    background-color: #572364 !important;
-}
-
-.navbar-brand {
-    font-weight: bold;
-    color: #FCFBF4 !important;
-}
-
-.navbar-nav .nav-link {
-    color: #FCFBF4 !important;
-}
-
-.navbar-nav .nav-link:hover {
-    color: #FFA500 !important;
-}
-
-/* Sección Home */
-#home {
-    background-color: #A2B06D;
-    color: #FCFBF4;
-    padding: 50px 0;
-}
-
-/* Sección Misión, Visión y Objetivo */
-#mision-vision-objetivo .p-3 {
-    background-color: #FCFBF4;
-    border-left: 5px solid #C83F49;
-}
-
-/* Sección Productos */
-#products h2 {
-    color: #C83F49;
-}
-
-.card {
-    border: 2px solid #A2B06D;
-    background-color: #FCFBF4;
-}
-
-.card-title {
-    color: #572364;
-}
-
-.card-text {
-    color: #572364;
-}
-
-/* Precios */
-.text-primary {
-    color: #FFA500 !important;
-    font-size: 18px;
-    font-weight: bold;
-}
-
 /* Contacto */
 #contact {
+    background-color: #A2B06D;
     color: #572364 !important;
 }
 
-
 .social-icon {
-    color: #572364;
+    color: #C83F49;
 }
 
 .social-icon:hover {
-    color: #572364;
+    color: #FFA500;
 }
+
 
 /* Footer */
 footer {
-    background-color: #572364;
-    color: #FCFBF4;
+    background-color: #C83F49;
+    color: #572364; /* Púrpura Mora para mayor contraste */
+    padding: 15px 0; /* Asegura espacio en el footer */
 }
+
